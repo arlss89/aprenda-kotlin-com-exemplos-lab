@@ -9,6 +9,8 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
 
+## Observações gerais:
+Eu poderia refatorar o código, mas para facilitar o teste, eu vou mantê-lo em um único arquivo. Assim, este poderá ser copiado e colado no [Kotlin Playground](https://play.kotlinlang.org/?_ga=2.88345565.716746688.1681750373-770870786.1681318844&_gl=1*15gnsfy*_ga*NzcwODcwNzg2LjE2ODEzMTg4NDQ.*_ga_9J976DJZ68*MTY4MTkwNTEzNy4xNS4xLjE2ODE5MDUxNTEuNDYuMC4w#eyJ2ZXJzaW9uIjoiMS44LjIwIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS5cbiAqIHBsYXkua290bGlubGFuZy5vcmdcbiAqL1xuZnVuIG1haW4oKSB7XG4gICAgcHJpbnRsbihcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9) para fins de testes.
 
 # Saída após a execução:
 
